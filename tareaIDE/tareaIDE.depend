@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1367981542 source:/home/labcv/Escritorio/tarea/tareaIDE/main.c
+	<stdio.h>
+	<stdlib.h>
+
